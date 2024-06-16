@@ -1,2 +1,2 @@
-# get-hub-demo
+# git-hub-demo
 This is my first repository
